@@ -1,0 +1,15 @@
+{
+  "name": "ethtrade_upgradable",
+  "version": "0.1.0",
+  "description": "An implementation using ChainLink and OpenZeppelin's library for allow user to deposit ETH and exchange for USDC as well as withdrawing the funds",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "author": "GSLiTW",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox-viem": "^3.0.0",
+    "hardhat": "^2.22.6"
+  }
+}
